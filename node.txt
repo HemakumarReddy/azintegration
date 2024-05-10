@@ -1,1 +1,1 @@
-install nodejs 20.01 version.
+install nodejs 20.X version.
